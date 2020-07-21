@@ -1,0 +1,13 @@
+The game Cavern Crawler is a procedurally generated endless fight for your life as you explore the caverns that have always been beneath your feet.
+
+The program Cavern Crawler will obviously generate caverns, enemies, have a combat system, make sure the player can't run thru a wall. 
+  you know...general game mechanics stuff.
+  Once the basic game functionality has been achieved, AI will be integrated to automate variation inside the game. 
+    For instance, generating new enemy types and unique behaviors for each new type. 
+    Additionally having enemies interact with the environment and circumstance in an instrumentally rational manner. IE this action gives this goal
+          But what goal should the enemies strive for? It should be a "good goal" right? But what is a good goal for them? How would they value? 
+          Do they, and if so how would they, have the concept of a short term and long term goal? More importantly, why do they think this action leads to this goal? 
+  These are the types of functions and questions I wish to integrate.
+  
+The project Cavern Crawler is simply me trying to figure out how to do this...
+
